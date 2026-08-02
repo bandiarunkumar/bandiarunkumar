@@ -61,6 +61,61 @@
 
 <br><br>
 
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 HR Attrition Analytics</h3>
+      <p>End-to-end HR attrition pipeline with Python, PostgreSQL, Airflow & Tableau</p>
+      <a href="https://github.com/bandiarunkumar/hr-attrition-analytics">
+        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Customer Shopping Analysis</h3>
+      <p>End-to-end data analytics project using Python, PostgreSQL, SQL & Tableau</p>
+      <a href="https://github.com/bandiarunkumar/customer-shopping-behavior-analysis">
+        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 DSA & LeetCode Solutions</h3>
+      <p>Curated collection of LeetCode solutions to ace coding interviews</p>
+      <a href="https://github.com/bandiarunkumar/DSA">
+        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 365 Days DA Challenge</h3>
+      <p>365 days of Data Analytics projects from Beginner to Advanced level</p>
+      <a href="https://github.com/bandiarunkumar/Data-Analyst-365-Challenge">
+        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+      </a>
+      <br><br>
+      <img src="https://img.shields.io/badge/Data_Analytics-39d353?style=flat-square&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
 ## 👤 Profile & Experience
 
 <table>
@@ -82,6 +137,18 @@
 
 <br><br>
 
+## ⏱️ Coding Activity
+
+> **Set up WakaTime** to see your weekly coding stats here!
+> Install the [WakaTime plugin](https://wakatime.com/vs-code) in VS Code → stats appear automatically after 7 days.
+
+<!--
+Once WakaTime is set up, replace this block with:
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bandiarunkumar&theme=github_dark&hide_border=true&bg_color=0d1117" width="860" alt="WakaTime Stats" />
+-->
+
+<br><br>
+
 ## 🌐 GitHub Skyline
 
 [![GitHub Skyline](https://img.shields.io/badge/View%20My%203D%20Contribution%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://skyline.github.com/bandiarunkumar/2025)
@@ -100,7 +167,8 @@
 
 <br><br>
 
----
+<!-- Animated Wave Footer -->
+<img src="./wave-footer.svg" width="860" alt="wave" />
 
 <sub>⚡ This profile auto-refreshes daily via GitHub Actions · Contribution graph · Snake animation · Greeting updated every run</sub>
 
