@@ -1,5 +1,34 @@
 <div align="center">
 
+<!-- Profile Banner -->
+<img src="./profile-banner.svg" width="860" alt="Bandia Arunkumar" />
+
+<br>
+
+<!-- Dynamic Greeting (auto-updated daily by GitHub Actions) -->
+<!-- GREETING -->Good Evening 🌆, I'm **Bandia Arunkumar**! Welcome to my profile.<!-- /GREETING -->
+
+<br>
+
+<!-- Animated Typing Roles -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+📊;Python+Developer+🐍;Open+Source+Contributor+🌱;Turning+Data+into+Insights+✨" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Visitor Counter + Social Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=bandiarunkumar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bandiarunkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bandiarunkumar)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandiarunkumar0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bandiarunkumar)
+
+<br><br>
+
+---
+
 ## 📊 GitHub Contribution Heatmap
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
@@ -22,7 +51,13 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github,postgres,mongodb&theme=dark" alt="Tech Stack" />
+
+<br><br>
+
+## ⚡ Skill Proficiency
+
+<img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
 
 <br><br>
 
@@ -44,5 +79,29 @@
   <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
   <img alt="github-snake" src="./github-snake.svg" />
 </picture>
+
+<br><br>
+
+## 🌐 GitHub Skyline
+
+[![GitHub Skyline](https://img.shields.io/badge/View%20My%203D%20Contribution%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://skyline.github.com/bandiarunkumar/2025)
+
+<br><br>
+
+## 😄 Dev Joke of the Day
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=%230d1117&textColor=%23c9d1d9&questionColor=%2358a6ff&answerColor=%2339d353" alt="Dev Joke" width="600" />
+
+<br><br>
+
+## 💬 Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" alt="Dev Quote" />
+
+<br><br>
+
+---
+
+<sub>⚡ This profile auto-refreshes daily via GitHub Actions · Contribution graph · Snake animation · Greeting updated every run</sub>
 
 </div>
