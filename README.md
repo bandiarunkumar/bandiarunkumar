@@ -27,6 +27,11 @@
 
 <br><br>
 
+<!-- Matrix Rain Animation -->
+<img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain" />
+
+<br><br>
+
 ---
 
 ## 📊 GitHub Contribution Heatmap
@@ -49,9 +54,13 @@
 
 <br><br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Orbiting Radar
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github,postgres,mongodb&theme=dark" alt="Tech Stack" />
+
+<br><br>
+
+<img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
 
 <br><br>
 
@@ -61,7 +70,11 @@
 
 <br><br>
 
-## ⚡ Skill Proficiency
+## 🎛️ Performance Gauges & Skill Proficiency
+
+<img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
+
+<br><br>
 
 <img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
 
@@ -133,7 +146,11 @@
 
 <br><br>
 
-## 🐍 Contribution Snake Game
+## 🕹️ Pixel Arcade & Snake Game
+
+<img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
