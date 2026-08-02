@@ -137,16 +137,11 @@
 
 <br><br>
 
-## ⏱️ Coding Activity
+## ⚡ Development Environment & Workflow
 
-<img src="https://img.shields.io/badge/WakaTime-Tracking_Active_🟢-0d1117?style=for-the-badge&logo=wakatime&logoColor=39d353" alt="WakaTime Active" />
-<img src="https://img.shields.io/badge/Stats_Available_In-7_Days-58a6ff?style=for-the-badge&logo=clockify&logoColor=white" alt="Stats Soon" />
-
-<br>
-
-> 🟢 **WakaTime is now active and tracking your coding time!**
-> Stats card will auto-populate after 7 days of coding data.
-> View your live dashboard → [wakatime.com/@bandiarunkumar](https://wakatime.com/@bandiarunkumar)
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Primary_IDE-Antigravity_/_VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff" alt="IDE" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Environment-macOS_/_Linux-0d1117?style=for-the-badge&logo=apple&logoColor=white" alt="OS" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Automation-GitHub_Actions_⚡-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353" alt="Automation" /></a>
 
 <br><br>
 
