@@ -23,7 +23,7 @@ elif 17 <= hour < 21:
 else:
     greeting = "Good Night 🌙"
 
-line = f"<!-- GREETING -->{greeting}, I'm **Bandia Arunkumar**! Welcome to my profile.<!-- /GREETING -->"
+line = f"<!-- GREETING -->{greeting}, I'm <strong>Bandia Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->"
 
 with open(README, "r") as f:
     content = f.read()

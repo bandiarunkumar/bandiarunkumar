@@ -6,24 +6,24 @@
 <br>
 
 <!-- Dynamic Greeting (auto-updated daily by GitHub Actions) -->
-<!-- GREETING -->Good Evening 🌆, I'm **Bandia Arunkumar**! Welcome to my profile.<!-- /GREETING -->
+<!-- GREETING -->Good Evening 🌆, I'm <strong>Bandia Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
 
 <br>
 
 <!-- Animated Typing Roles -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+📊;Python+Developer+🐍;Open+Source+Contributor+🌱;Turning+Data+into+Insights+✨" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst;Python+Developer;Open+Source+Contributor;Turning+Data+into+Insights" alt="Typing SVG" />
 
 <br><br>
 
 <!-- Visitor Counter + Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=bandiarunkumar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=bandiarunkumar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bandiarunkumar)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bandiarunkumar)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bandiarunkumar0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/bandiarunkumar)
+<a href="https://linkedin.com/in/bandiarunkumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:bandiarunkumar0@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br><br>
 
