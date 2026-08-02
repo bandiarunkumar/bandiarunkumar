@@ -252,9 +252,23 @@
 
 <br><br>
 
+## 🔒 Copyright & Intellectual Property Protection
+
+<img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge&logo=github&logoColor=white" alt="License" />
+<img src="https://img.shields.io/badge/Copyright-©_2026_Bandia_Arunkumar-0d1117?style=for-the-badge&logo=shield&logoColor=39d353" alt="Copyright" />
+<img src="https://img.shields.io/badge/DMCA-Protected-58a6ff?style=for-the-badge&logo=security&logoColor=white" alt="DMCA Protected" />
+
+<br>
+
+> ⚠️ **Notice:** This repository layout, custom SVG animations, graphic artwork, and codebase are protected under an **All Rights Reserved** License.
+> Unauthorized copying, cloning, or distribution of these assets is strictly prohibited and subject to GitHub DMCA enforcement.
+
+<br><br>
+
 <!-- Animated Wave Footer -->
 <img src="./wave-footer.svg" width="860" alt="wave" />
 
 <sub>⚡ This profile auto-refreshes daily via GitHub Actions · Contribution graph · Snake animation · Greeting updated every run</sub>
 
 </div>
+
