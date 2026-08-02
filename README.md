@@ -55,6 +55,12 @@
 
 <br><br>
 
+## 🔄 Animated Analytics Pipeline
+
+<img src="./data-pipeline.svg" width="860" alt="Animated Data Analytics Pipeline" />
+
+<br><br>
+
 ## ⚡ Skill Proficiency
 
 <img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
