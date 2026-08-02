@@ -1,9 +1,13 @@
 <div align="center">
 
+## 📊 GitHub Contribution Heatmap
+
 <h3><code>bandiarunkumar@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
 <br><br>
+
+## 👤 Profile & Experience
 
 <h3><code>bandiarunkumar@github ~ $ whoami</code></h3>
 <table>
@@ -14,6 +18,8 @@
 </table>
 
 <br><br>
+
+## 🐍 Contribution Snake Game
 
 <h3><code>bandiarunkumar@github ~ $ ./snake.sh</code></h3>
 <picture>

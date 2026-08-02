@@ -47,7 +47,7 @@ HOST = os.environ.get("GH_PROFILE_USER", "bandiarunkumar")
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Software Engineer"),
+    ("kv", "Now", "Data Analyst"),
     ("kv", "Also", "Open Source Contributor"),
     ("kv", "Loc", "India"),
     ("kv", "Site", "github.com/bandiarunkumar"),
