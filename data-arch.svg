@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 180" width="860" height="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <linearGradient id="abg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0f18"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <filter id="aglow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="860" height="180" rx="14" fill="url(#abg)"/>
+  <rect x="0.5" y="0.5" width="859" height="179" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="430" y="30" fill="#8b949e" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="1.5">
+    🏗️ END-TO-END DATA ARCHITECTURE &amp; SYSTEM FLOW
+  </text>
+
+  <!-- Flow Arrows / Lines -->
+  <g stroke="#30363d" stroke-width="2" stroke-dasharray="6,6">
+    <line x1="210" y1="95" x2="270" y2="95"/>
+    <line x1="410" y1="95" x2="470" y2="95"/>
+    <line x1="610" y1="95" x2="670" y2="95"/>
+  </g>
+
+  <!-- Flowing Animated Particles -->
+  <circle cx="210" cy="95" r="4" fill="#58a6ff" filter="url(#aglow)">
+    <animate attributeName="cx" from="210" to="270" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="410" cy="95" r="4" fill="#39d353" filter="url(#aglow)">
+    <animate attributeName="cx" from="410" to="470" dur="1.5s" begin="0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="610" cy="95" r="4" fill="#ffa657" filter="url(#aglow)">
+    <animate attributeName="cx" from="610" to="670" dur="1.5s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Box 1: Sources -->
+  <g transform="translate(70, 55)">
+    <rect width="140" height="80" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+    <text x="70" y="26" fill="#58a6ff" font-size="11" font-weight="700" text-anchor="middle">1. SOURCES</text>
+    <line x1="15" y1="35" x2="125" y2="35" stroke="#30363d" stroke-width="1"/>
+    <text x="70" y="52" fill="#e6edf3" font-size="10" text-anchor="middle">APIs · CSVs</text>
+    <text x="70" y="66" fill="#7d8590" font-size="9" text-anchor="middle">Web Scraping</text>
+  </g>
+
+  <!-- Box 2: Processing -->
+  <g transform="translate(270, 55)">
+    <rect width="140" height="80" rx="8" fill="#161b22" stroke="#22d3ee" stroke-width="1.5"/>
+    <text x="70" y="26" fill="#22d3ee" font-size="11" font-weight="700" text-anchor="middle">2. ETL &amp; CLEAN</text>
+    <line x1="15" y1="35" x2="125" y2="35" stroke="#30363d" stroke-width="1"/>
+    <text x="70" y="52" fill="#e6edf3" font-size="10" text-anchor="middle">Python / Pandas</text>
+    <text x="70" y="66" fill="#7d8590" font-size="9" text-anchor="middle">Airflow Orchestration</text>
+  </g>
+
+  <!-- Box 3: Warehouse -->
+  <g transform="translate(470, 55)">
+    <rect width="140" height="80" rx="8" fill="#161b22" stroke="#39d353" stroke-width="1.5"/>
+    <text x="70" y="26" fill="#39d353" font-size="11" font-weight="700" text-anchor="middle">3. WAREHOUSE</text>
+    <line x1="15" y1="35" x2="125" y2="35" stroke="#30363d" stroke-width="1"/>
+    <text x="70" y="52" fill="#e6edf3" font-size="10" text-anchor="middle">PostgreSQL / SQL</text>
+    <text x="70" y="66" fill="#7d8590" font-size="9" text-anchor="middle">Structured Schemas</text>
+  </g>
+
+  <!-- Box 4: BI & Insights -->
+  <g transform="translate(670, 55)">
+    <rect width="140" height="80" rx="8" fill="#161b22" stroke="#ffa657" stroke-width="1.5"/>
+    <text x="70" y="26" fill="#ffa657" font-size="11" font-weight="700" text-anchor="middle">4. INSIGHTS</text>
+    <line x1="15" y1="35" x2="125" y2="35" stroke="#30363d" stroke-width="1"/>
+    <text x="70" y="52" fill="#e6edf3" font-size="10" text-anchor="middle">Tableau / Dashboards</text>
+    <text x="70" y="66" fill="#7d8590" font-size="9" text-anchor="middle">Predictive ML</text>
+  </g>
+</svg>

@@ -27,7 +27,12 @@
 
 <br><br>
 
-<!-- 1. Matrix Rain Animation -->
+<!-- 1. Animated Terminal Run -->
+<img src="./terminal-run.svg" width="860" alt="Terminal Execution" />
+
+<br><br>
+
+<!-- 2. Matrix Rain Animation -->
 <img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain" />
 
 <br><br>
@@ -46,7 +51,7 @@
 
 <br>
 
-<!-- 2. Live Drawing Line Graph Ticker -->
+<!-- Live Drawing Line Graph Ticker -->
 <img src="./live-line-graph.svg" width="860" alt="Real-Time Analytics Ticker" />
 
 <br>
@@ -65,8 +70,15 @@
 
 <br><br>
 
-<!-- 3. Orbiting Tech Radar -->
+<!-- Orbiting Tech Radar -->
 <img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
+
+<br><br>
+
+## 🏗️ End-to-End Data Architecture & System Flow
+
+<!-- Data Architecture Diagram -->
+<img src="./data-arch.svg" width="860" alt="Data Architecture Diagram" />
 
 <br><br>
 
@@ -76,14 +88,14 @@
 
 <br><br>
 
-<!-- 4. Glowing Neon Circuit Board -->
+<!-- Glowing Neon Circuit Board -->
 <img src="./circuit-board.svg" width="860" alt="High-Speed Circuit Board" />
 
 <br><br>
 
 ## 🎛️ Performance Gauges & Skill Proficiency
 
-<!-- 5. Speedometer Gauges -->
+<!-- Speedometer Gauges -->
 <img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
 
 <br><br>
@@ -94,8 +106,42 @@
 
 ## 🎆 Dynamic Particle Constellation Mesh
 
-<!-- 6. Particle Constellation -->
+<!-- Particle Constellation -->
 <img src="./particle-constellation.svg" width="860" alt="Dynamic Particle Constellation" />
+
+<br><br>
+
+## 🎯 Current Focus & Learning Journey
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Focus</h3>
+      <ul>
+        <li>Building <b>Automated Data Engineering Pipelines</b></li>
+        <li>Advanced SQL Query Optimization &amp; Indexing</li>
+        <li>Predictive Analytics &amp; Machine Learning Dashboards</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Learning Right Now</h3>
+      <ul>
+        <li><b>Apache Spark &amp; PySpark</b> for Big Data Processing</li>
+        <li><b>DuckDB &amp; dbt</b> for modern analytical queries</li>
+        <li><b>LLM Data Agents</b> for automated insight extraction</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+## 🏆 Certifications & Credentials
+
+<img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Data_Science_Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database_Architect-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-Desktop_Analytics_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 <br><br>
 
@@ -167,7 +213,7 @@
 
 ## 🕹️ Pixel Arcade & Snake Game
 
-<!-- 7. Retro Pixel Walk -->
+<!-- Retro Pixel Walk -->
 <img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
 
 <br><br>
