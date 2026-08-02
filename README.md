@@ -139,13 +139,14 @@
 
 ## ⏱️ Coding Activity
 
-> **Set up WakaTime** to see your weekly coding stats here!
-> Install the [WakaTime plugin](https://wakatime.com/vs-code) in VS Code → stats appear automatically after 7 days.
+<img src="https://img.shields.io/badge/WakaTime-Tracking_Active_🟢-0d1117?style=for-the-badge&logo=wakatime&logoColor=39d353" alt="WakaTime Active" />
+<img src="https://img.shields.io/badge/Stats_Available_In-7_Days-58a6ff?style=for-the-badge&logo=clockify&logoColor=white" alt="Stats Soon" />
 
-<!--
-Once WakaTime is set up, replace this block with:
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=bandiarunkumar&theme=github_dark&hide_border=true&bg_color=0d1117" width="860" alt="WakaTime Stats" />
--->
+<br>
+
+> 🟢 **WakaTime is now active and tracking your coding time!**
+> Stats card will auto-populate after 7 days of coding data.
+> View your live dashboard → [wakatime.com/@bandiarunkumar](https://wakatime.com/@bandiarunkumar)
 
 <br><br>
 
