@@ -27,7 +27,7 @@
 
 <br><br>
 
-<!-- Matrix Rain Animation -->
+<!-- 1. Matrix Rain Animation -->
 <img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain" />
 
 <br><br>
@@ -40,9 +40,14 @@
 
 <br><br>
 
-## 📈 Live Analytics
+## 📈 Live Analytics & Real-Time Ticker
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=bandiarunkumar&data=followers,repositories,stars,commits&theme=nautilus" width="860" alt="GitHub Profile Stats" />
+
+<br>
+
+<!-- 2. Live Drawing Line Graph Ticker -->
+<img src="./live-line-graph.svg" width="860" alt="Real-Time Analytics Ticker" />
 
 <br>
 
@@ -60,23 +65,37 @@
 
 <br><br>
 
+<!-- 3. Orbiting Tech Radar -->
 <img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
 
 <br><br>
 
-## 🔄 Animated Analytics Pipeline
+## 🔄 Animated Analytics Pipeline & High-Speed Circuit
 
 <img src="./data-pipeline.svg" width="860" alt="Animated Data Analytics Pipeline" />
 
 <br><br>
 
+<!-- 4. Glowing Neon Circuit Board -->
+<img src="./circuit-board.svg" width="860" alt="High-Speed Circuit Board" />
+
+<br><br>
+
 ## 🎛️ Performance Gauges & Skill Proficiency
 
+<!-- 5. Speedometer Gauges -->
 <img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
 
 <br><br>
 
 <img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
+
+<br><br>
+
+## 🎆 Dynamic Particle Constellation Mesh
+
+<!-- 6. Particle Constellation -->
+<img src="./particle-constellation.svg" width="860" alt="Dynamic Particle Constellation" />
 
 <br><br>
 
@@ -148,6 +167,7 @@
 
 ## 🕹️ Pixel Arcade & Snake Game
 
+<!-- 7. Retro Pixel Walk -->
 <img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
 
 <br><br>
