@@ -6,7 +6,7 @@
 <br>
 
 <!-- Dynamic Greeting (auto-updated daily by GitHub Actions) -->
-<!-- GREETING -->Good Afternoon 🌤️, I'm <strong>Bandi Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
+<!-- GREETING -->Good Evening 🌆, I'm <strong>Bandi Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
 
 <br>
 
@@ -15,7 +15,7 @@
 
 <br><br>
 
-<!-- Visitor Counter + Social Badges -->
+<!-- Visitor Counter & Social Badges -->
 <img src="https://komarev.com/ghpvc/?username=bandiarunkumar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br>
@@ -27,12 +27,12 @@
 
 <br><br>
 
-<!-- 1. Animated Terminal Run -->
+<!-- 1. Terminal Run Execution -->
 <img src="./terminal-run.svg" width="860" alt="Terminal Execution" />
 
 <br><br>
 
-<!-- 2. Matrix Rain Animation -->
+<!-- 2. Matrix Code Rain -->
 <img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain" />
 
 <br><br>
@@ -51,7 +51,6 @@
 
 <br>
 
-<!-- Live Drawing Line Graph Ticker -->
 <img src="./live-line-graph.svg" width="860" alt="Real-Time Analytics Ticker" />
 
 <br>
@@ -64,20 +63,20 @@
 
 <br><br>
 
+---
+
 ## 🛠️ Tech Stack & Orbiting Radar
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github,postgres,mongodb&theme=dark" alt="Tech Stack" />
 
 <br><br>
 
-<!-- Orbiting Tech Radar -->
 <img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
 
 <br><br>
 
 ## 🏗️ End-to-End Data Architecture & System Flow
 
-<!-- Data Architecture Diagram -->
 <img src="./data-arch.svg" width="860" alt="Data Architecture Diagram" />
 
 <br><br>
@@ -88,14 +87,12 @@
 
 <br><br>
 
-<!-- Glowing Neon Circuit Board -->
 <img src="./circuit-board.svg" width="860" alt="High-Speed Circuit Board" />
 
 <br><br>
 
 ## 🎛️ Performance Gauges & Skill Proficiency
 
-<!-- Speedometer Gauges -->
 <img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
 
 <br><br>
@@ -106,14 +103,15 @@
 
 ## 🎆 Dynamic Particle Constellation Mesh
 
-<!-- Particle Constellation -->
 <img src="./particle-constellation.svg" width="860" alt="Dynamic Particle Constellation" />
 
 <br><br>
 
+---
+
 ## 🎯 Current Focus & Learning Journey
 
-<table>
+<table width="860" cellpadding="8">
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 Current Focus</h3>
@@ -145,13 +143,15 @@
 
 <br><br>
 
+---
+
 ## 🚀 Featured Projects
 
-<table>
+<table width="860" cellpadding="8">
   <tr>
     <td width="50%" valign="top">
       <h3>📊 HR Attrition Analytics</h3>
-      <p>End-to-end HR attrition pipeline with Python, PostgreSQL, Airflow & Tableau</p>
+      <p>End-to-end HR attrition pipeline with Python, PostgreSQL, Airflow &amp; Tableau</p>
       <a href="https://github.com/bandiarunkumar/hr-attrition-analytics">
         <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
@@ -163,7 +163,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛒 Customer Shopping Analysis</h3>
-      <p>End-to-end data analytics project using Python, PostgreSQL, SQL & Tableau</p>
+      <p>End-to-end data analytics project using Python, PostgreSQL, SQL &amp; Tableau</p>
       <a href="https://github.com/bandiarunkumar/customer-shopping-behavior-analysis">
         <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
@@ -176,7 +176,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 DSA & LeetCode Solutions</h3>
+      <h3>🧠 DSA &amp; LeetCode Solutions</h3>
       <p>Curated collection of LeetCode solutions to ace coding interviews</p>
       <a href="https://github.com/bandiarunkumar/DSA">
         <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
@@ -202,18 +202,19 @@
 
 ## 👤 Profile & Experience
 
-<table>
+<table width="860" cellpadding="8">
   <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-    <td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+    <td valign="top" align="center"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top" align="center"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
   </tr>
 </table>
 
 <br><br>
 
+---
+
 ## 🕹️ Pixel Arcade & Snake Game
 
-<!-- Retro Pixel Walk -->
 <img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
 
 <br><br>
@@ -241,6 +242,8 @@
 
 <br><br>
 
+---
+
 ## 😄 Dev Joke of the Day
 
 <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=%230d1117&textColor=%23c9d1d9&questionColor=%2358a6ff&answerColor=%2339d353" alt="Dev Joke" width="600" />
@@ -253,10 +256,12 @@
 
 <br><br>
 
+---
+
 ## 🔒 Copyright & Intellectual Property Protection
 
 <img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge&logo=github&logoColor=white" alt="License" />
-<img src="https://img.shields.io/badge/Copyright-©_2026_Bandia_Arunkumar-0d1117?style=for-the-badge&logo=shield&logoColor=39d353" alt="Copyright" />
+<img src="https://img.shields.io/badge/Copyright-©_2026_Bandi_Arunkumar-0d1117?style=for-the-badge&logo=shield&logoColor=39d353" alt="Copyright" />
 <img src="https://img.shields.io/badge/DMCA-Protected-58a6ff?style=for-the-badge&logo=security&logoColor=white" alt="DMCA Protected" />
 
 <br>
@@ -272,4 +277,3 @@
 <sub>⚡ This profile auto-refreshes daily via GitHub Actions · Contribution graph · Snake animation · Greeting updated every run</sub>
 
 </div>
-
