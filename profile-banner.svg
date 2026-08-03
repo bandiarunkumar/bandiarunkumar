@@ -44,7 +44,7 @@
 
   <!-- Name -->
   <text x="52" y="68" fill="#e6edf3" font-size="32" font-weight="700" opacity="0" letter-spacing="-0.5" filter="url(#glow)">
-    Bandia Arunkumar
+    Bandi Arunkumar
     <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.7s" fill="freeze"/>
   </text>
 
