@@ -15,145 +15,41 @@
 
 <br><br>
 
-<!-- Visitor Counter & Social Badges -->
+<!-- Visitor Counter & Professional Contact Badges -->
 <img src="https://komarev.com/ghpvc/?username=bandiarunkumar&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/arunkumar-bandi-a79728354"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:bandiarunkumar.ab@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-<br><br>
-
-<!-- 1. Terminal Run Execution -->
-<img src="./terminal-run.svg" width="860" alt="Terminal Execution" />
-
-<br><br>
-
-<!-- 2. Matrix Code Rain -->
-<img src="./matrix-rain.svg" width="860" alt="Matrix Code Rain" />
+<a href="https://github.com/bandiarunkumar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
 
 <br><br>
 
 ---
 
-## 📊 GitHub Contribution Heatmap
-
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
-
-<br><br>
-
-## 📈 Live Analytics & Real-Time Ticker
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=bandiarunkumar&data=followers,repositories,stars,commits&theme=nautilus" width="860" alt="GitHub Profile Stats" />
-
-<br>
-
-<img src="./live-line-graph.svg" width="860" alt="Real-Time Analytics Ticker" />
-
-<br>
-
-<img src="./streak-card.svg" width="860" alt="GitHub Streak Stats" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandiarunkumar&bg_color=0d1117&color=58a6ff&line=39d353&point=ffa657&area=true&area_color=006d32&hide_border=true&custom_title=Contribution+Activity+Graph&radius=6" width="860" alt="Contribution Activity Graph" />
-
-<br><br>
-
----
-
-## 🛠️ Tech Stack & Orbiting Radar
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github,postgres,mongodb&theme=dark" alt="Tech Stack" />
-
-<br><br>
-
-<img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
-
-<br><br>
-
-## 🏗️ End-to-End Data Architecture & System Flow
-
-<img src="./data-arch.svg" width="860" alt="Data Architecture Diagram" />
-
-<br><br>
-
-## 🔄 Animated Analytics Pipeline & High-Speed Circuit
-
-<img src="./data-pipeline.svg" width="860" alt="Animated Data Analytics Pipeline" />
-
-<br><br>
-
-<img src="./circuit-board.svg" width="860" alt="High-Speed Circuit Board" />
-
-<br><br>
-
-## 🎛️ Performance Gauges & Skill Proficiency
-
-<img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
-
-<br><br>
-
-<img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
-
-<br><br>
-
-## 🎆 Dynamic Particle Constellation Mesh
-
-<img src="./particle-constellation.svg" width="860" alt="Dynamic Particle Constellation" />
-
-<br><br>
-
----
-
-## 🎯 Current Focus & Learning Journey
+## 👤 Executive Profile & Overview
 
 <table width="860" cellpadding="8">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🎯 Current Focus</h3>
-      <ul>
-        <li>Building <b>Automated Data Engineering Pipelines</b></li>
-        <li>Advanced SQL Query Optimization &amp; Indexing</li>
-        <li>Predictive Analytics &amp; Machine Learning Dashboards</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📚 Learning Right Now</h3>
-      <ul>
-        <li><b>Apache Spark &amp; PySpark</b> for Big Data Processing</li>
-        <li><b>DuckDB &amp; dbt</b> for modern analytical queries</li>
-        <li><b>LLM Data Agents</b> for automated insight extraction</li>
-      </ul>
-    </td>
+    <td valign="top" align="center" width="45%"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top" width="55%"><img src="./info-card.svg" width="470" alt="Experience, stack, highlights" /></td>
   </tr>
 </table>
 
 <br><br>
 
-## 🏆 Certifications & Credentials
-
-<img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Data_Science_Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database_Architect-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-Desktop_Analytics_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-<br><br>
-
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Analytics & Engineering Projects
 
-<table width="860" cellpadding="8">
+<table width="860" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 HR Attrition Analytics</h3>
-      <p>End-to-end HR attrition pipeline with Python, PostgreSQL, Airflow &amp; Tableau</p>
+      <h3>📊 HR Attrition Analytics Pipeline</h3>
+      <p>End-to-end data pipeline analyzing employee turnover patterns. Processed structured workforce datasets using Python & PostgreSQL, orchestrated workflows via Apache Airflow, and delivered interactive executive insights in Tableau.</p>
       <a href="https://github.com/bandiarunkumar/hr-attrition-analytics">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -162,10 +58,10 @@
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 Customer Shopping Analysis</h3>
-      <p>End-to-end data analytics project using Python, PostgreSQL, SQL &amp; Tableau</p>
+      <h3>🛒 Customer Shopping Behavior Analysis</h3>
+      <p>Comprehensive exploratory data analysis and customer segmentation. Executed complex SQL window functions and cohort analysis in PostgreSQL & Jupyter, creating business dashboards for consumer trend analysis.</p>
       <a href="https://github.com/bandiarunkumar/customer-shopping-behavior-analysis">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -176,36 +72,27 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 DSA &amp; LeetCode Solutions</h3>
-      <p>Curated collection of LeetCode solutions to ace coding interviews</p>
+      <h3>🧠 Data Structures & Algorithmic Solutions</h3>
+      <p>Curated repository of optimized LeetCode & algorithmic problem solutions in Python. Focuses on space-time complexity analysis (Big-O), data structure design, and technical interview preparation.</p>
       <a href="https://github.com/bandiarunkumar/DSA">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+      <img src="https://img.shields.io/badge/Algorithms-39d353?style=flat-square&logo=gitbook&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>📅 365 Days DA Challenge</h3>
-      <p>365 days of Data Analytics projects from Beginner to Advanced level</p>
+      <h3>📅 365 Days Data Analytics Challenge</h3>
+      <p>Continuous daily repository documenting end-to-end data projects. Covers SQL query tuning, data cleaning, statistical modeling, data visualization, and automated ETL scripting.</p>
       <a href="https://github.com/bandiarunkumar/Data-Analyst-365-Challenge">
-        <img src="https://img.shields.io/badge/View_Project-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
+        <img src="https://img.shields.io/badge/View_Repository-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Project" />
       </a>
       <br><br>
       <img src="https://img.shields.io/badge/Data_Analytics-39d353?style=flat-square&logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
     </td>
-  </tr>
-</table>
-
-<br><br>
-
-## 👤 Profile & Experience
-
-<table width="860" cellpadding="8">
-  <tr>
-    <td valign="top" align="center"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-    <td valign="top" align="center"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
   </tr>
 </table>
 
@@ -213,7 +100,101 @@
 
 ---
 
-## 🕹️ Pixel Arcade & Snake Game
+## 🏗️ Data Architecture & Pipeline Engineering
+
+<img src="./data-arch.svg" width="860" alt="Data Architecture Diagram" />
+
+<br><br>
+
+<img src="./data-pipeline.svg" width="860" alt="Animated Data Analytics Pipeline" />
+
+<br><br>
+
+<img src="./terminal-run.svg" width="860" alt="Terminal Execution" />
+
+<br><br>
+
+---
+
+## 🛠️ Technical Stack & Skill Proficiency
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,fastapi,flask,docker,git,github,postgres,mongodb&theme=dark" alt="Tech Stack" />
+
+<br><br>
+
+<img src="./tech-radar.svg" width="860" alt="Orbiting Tech Radar" />
+
+<br><br>
+
+<img src="./gauge-meters.svg" width="860" alt="Analytics Speedometers" />
+
+<br><br>
+
+<img src="./skill-bars.svg" width="860" alt="Skill Progress Bars" />
+
+<br><br>
+
+---
+
+## 🎯 Technical Focus & Learning Roadmap
+
+<table width="860" cellpadding="8">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Core Professional Competencies</h3>
+      <ul>
+        <li><b>Automated Data Engineering Pipelines</b> &amp; Workflow Orchestration</li>
+        <li><b>Advanced SQL Performance Tuning</b>, Indexing &amp; Schema Design</li>
+        <li><b>Executive BI Dashboards</b> &amp; Predictive Analytics Modeling</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Advanced Technical Roadmap</h3>
+      <ul>
+        <li><b>Apache Spark &amp; PySpark</b> for Distributed Big Data Processing</li>
+        <li><b>DuckDB &amp; dbt</b> for Modern Analytical Transformations</li>
+        <li><b>LLM &amp; AI Data Agents</b> for Automated Insights Generation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+---
+
+## 🏆 Certifications & Professional Credentials
+
+<img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-Data_Science_Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-Database_Architect-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-Desktop_Analytics_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+<br><br>
+
+---
+
+## 📊 Verified GitHub Analytics & Activity
+
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+<br><br>
+
+<img src="./streak-card.svg" width="860" alt="GitHub Streak Stats" />
+
+<br><br>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=bandiarunkumar&data=followers,repositories,stars,commits&theme=nautilus" width="860" alt="GitHub Profile Stats" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bandiarunkumar&bg_color=0d1117&color=58a6ff&line=39d353&point=ffa657&area=true&area_color=006d32&hide_border=true&custom_title=Contribution+Activity+Graph&radius=6" width="860" alt="Contribution Activity Graph" />
+
+<br><br>
+
+---
+
+## 🕹️ Developer Experience & Arcade
 
 <img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
 
@@ -227,6 +208,8 @@
 
 <br><br>
 
+---
+
 ## ⚡ Development Environment & Workflow
 
 <a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Primary_IDE-Antigravity_/_VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff" alt="IDE" /></a>
@@ -235,30 +218,9 @@
 
 <br><br>
 
-## 🌐 Interactive GitHub Repositories & Overview
-
-<a href="https://github.com/bandiarunkumar?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="Explore Repositories" /></a>
-<a href="https://github.com/bandiarunkumar?tab=overview"><img src="https://img.shields.io/badge/View%20GitHub%20Contributions-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Contributions" /></a>
-
-<br><br>
-
 ---
 
-## 😄 Dev Joke of the Day
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder=true&bgColor=%230d1117&textColor=%23c9d1d9&questionColor=%2358a6ff&answerColor=%2339d353" alt="Dev Joke" width="600" />
-
-<br><br>
-
-## 💬 Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600" alt="Dev Quote" />
-
-<br><br>
-
----
-
-## 🔒 Copyright & Intellectual Property Protection
+## 🔒 Intellectual Property & Legal Notice
 
 <img src="https://img.shields.io/badge/License-All_Rights_Reserved-red?style=for-the-badge&logo=github&logoColor=white" alt="License" />
 <img src="https://img.shields.io/badge/Copyright-©_2026_Bandi_Arunkumar-0d1117?style=for-the-badge&logo=shield&logoColor=39d353" alt="Copyright" />
