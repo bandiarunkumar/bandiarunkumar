@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Profile Banner -->
-<img src="./profile-banner.svg" width="860" alt="Bandia Arunkumar" />
+<img src="./profile-banner.svg" width="860" alt="Bandi Arunkumar" />
 
 <br>
 
 <!-- Dynamic Greeting (auto-updated daily by GitHub Actions) -->
-<!-- GREETING -->Good Afternoon 🌤️, I'm <strong>Bandia Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
+<!-- GREETING -->Good Afternoon 🌤️, I'm <strong>Bandi Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
 
 <br>
 
