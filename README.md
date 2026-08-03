@@ -114,6 +114,11 @@
 
 <br><br>
 
+<!-- Morphing Vector Engine -->
+<img src="./morph-core.svg" width="860" alt="Fluid Morphing Data Engine" />
+
+<br><br>
+
 ---
 
 ## 🛠️ Technical Stack & Skill Proficiency
