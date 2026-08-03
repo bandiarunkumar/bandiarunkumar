@@ -6,7 +6,7 @@
 <br>
 
 <!-- Dynamic Greeting (auto-updated daily by GitHub Actions) -->
-<!-- GREETING -->Good Evening 🌆, I'm <strong>Bandia Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
+<!-- GREETING -->Good Afternoon 🌤️, I'm <strong>Bandia Arunkumar</strong>! Welcome to my profile.<!-- /GREETING -->
 
 <br>
 
