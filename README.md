@@ -56,7 +56,7 @@
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=bandiarunkumar&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=7d8590&currStreakNum=39d353&sideNums=39d353" width="860" alt="GitHub Streak Stats" />
+<img src="./streak-card.svg" width="860" alt="GitHub Streak Stats" />
 
 <br>
 
