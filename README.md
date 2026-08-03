@@ -234,9 +234,10 @@
 
 <br><br>
 
-## 🌐 GitHub Skyline
+## 🌐 Interactive GitHub Repositories & Overview
 
-[![GitHub Skyline](https://img.shields.io/badge/View%20My%203D%20Contribution%20Skyline-0d1117?style=for-the-badge&logo=github&logoColor=39d353)](https://skyline.github.com/bandiarunkumar/2025)
+<a href="https://github.com/bandiarunkumar?tab=repositories"><img src="https://img.shields.io/badge/Explore%20All%20Repositories-0d1117?style=for-the-badge&logo=github&logoColor=39d353" alt="Explore Repositories" /></a>
+<a href="https://github.com/bandiarunkumar?tab=overview"><img src="https://img.shields.io/badge/View%20GitHub%20Contributions-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="View Contributions" /></a>
 
 <br><br>
 
