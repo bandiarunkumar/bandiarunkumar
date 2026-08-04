@@ -215,7 +215,8 @@
 ## ⚡ Development Environment & Workflow
 
 <a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Primary_IDE-Antigravity_/_VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=58a6ff" alt="IDE" /></a>
-<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Environment-macOS_/_Linux-0d1117?style=for-the-badge&logo=apple&logoColor=white" alt="OS" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Environment-macOS_/_Linux-0d1117?style=for-the-badge&logo=apple&logoColor=white" alt="macOS Linux" /></a>
+<a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Environment-Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows" /></a>
 <a href="https://github.com/bandiarunkumar"><img src="https://img.shields.io/badge/Automation-GitHub_Actions_⚡-0d1117?style=for-the-badge&logo=githubactions&logoColor=39d353" alt="Automation" /></a>
 
 <br><br>
