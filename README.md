@@ -198,7 +198,7 @@
 
 ## 🕹️ Developer Experience & Arcade
 
-<img src="./pixel-walk.svg" width="860" alt="Retro Arcade Walk" />
+<img src="./super-mario.svg" width="860" alt="Super Mario Arcade Scene" />
 
 <br><br>
 
