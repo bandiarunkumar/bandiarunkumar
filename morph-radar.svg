@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 170" width="860" height="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <!-- © 2026 Bandi Arunkumar (https://github.com/bandiarunkumar). All Rights Reserved. -->
+  <defs>
+    <linearGradient id="mrbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1017"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+
+    <linearGradient id="polyGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#39d353"/>
+      <stop offset="50%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#ffa657"/>
+    </linearGradient>
+
+    <filter id="mrglow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="860" height="170" rx="14" fill="url(#mrbg)"/>
+  <rect x="0.5" y="0.5" width="859" height="169" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title -->
+  <text x="430" y="28" fill="#8b949e" font-size="12" font-weight="700" text-anchor="middle" letter-spacing="2">
+    ⬢ MORPHING GEOMETRIC TECH RADAR
+  </text>
+
+  <!-- Left Side: Morphing Geometric Polygon (Center at 220, 100) -->
+  <g transform="translate(220, 100)">
+    <!-- Path Morphing Polygon: Circle -> Diamond -> Hexagon -> Circle -->
+    <path fill="none" stroke="url(#polyGrad)" stroke-width="3" filter="url(#mrglow)">
+      <animate attributeName="d"
+        dur="6s"
+        repeatCount="indefinite"
+        calcMode="spline"
+        keySplines="0.4 0 0.6 1; 0.4 0 0.6 1; 0.4 0 0.6 1"
+        values="
+          M 0 -45 L 39 -22.5 L 39 22.5 L 0 45 L -39 22.5 L -39 -22.5 Z;
+          M 0 -50 L 50 0 L 0 50 L -50 0 Z;
+          M 0 -45 L 32 -32 L 45 0 L 32 32 L 0 45 L -32 32 L -45 0 L -32 -32 Z;
+          M 0 -45 L 39 -22.5 L 39 22.5 L 0 45 L -39 22.5 L -39 -22.5 Z
+        "/>
+    </path>
+    <circle cx="0" cy="0" r="8" fill="#39d353" filter="url(#mrglow)"/>
+  </g>
+
+  <!-- Divider -->
+  <line x1="380" y1="40" x2="380" y2="150" stroke="#30363d" stroke-width="1" stroke-dasharray="4,4"/>
+
+  <!-- Right Side: Morphing Tech Stack Text -->
+  <g transform="translate(420, 75)">
+    <text x="0" y="0" fill="#7d8590" font-size="11" font-weight="700">PRIMARY TOOLCHAIN:</text>
+    
+    <!-- Morphing Skill Text -->
+    <text x="0" y="35" fill="#39d353" font-size="24" font-weight="900" filter="url(#mrglow)">
+      <tspan opacity="1">
+        <animate attributeName="opacity" values="1;0;0;0;1" keyTimes="0;0.22;0.75;0.95;1" dur="6s" repeatCount="indefinite"/>
+        🐍 PYTHON &amp; PANDAS
+      </tspan>
+      <tspan x="0" y="35" opacity="0">
+        <animate attributeName="opacity" values="0;1;0;0" keyTimes="0.25;0.47;0.52;1" dur="6s" repeatCount="indefinite"/>
+        🗄️ ADVANCED SQL &amp; PG
+      </tspan>
+      <tspan x="0" y="35" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;0" keyTimes="0.55;0.72;0.95;1" dur="6s" repeatCount="indefinite"/>
+        📊 TABLEAU EXECUTIVE BI
+      </tspan>
+    </text>
+
+    <text x="0" y="62" fill="#58a6ff" font-size="12" font-weight="700">
+      ● Polyline Coordinate Morphing Active 🟢
+    </text>
+  </g>
+</svg>

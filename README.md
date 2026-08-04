@@ -114,8 +114,16 @@
 
 <br><br>
 
-<!-- Morphing Vector Engine -->
+<!-- Morphing Vector Engine Suite -->
 <img src="./morph-core.svg" width="860" alt="Fluid Morphing Data Engine" />
+
+<br><br>
+
+<img src="./morph-radar.svg" width="860" alt="Morphing Geometric Tech Radar" />
+
+<br><br>
+
+<img src="./morph-metrics.svg" width="860" alt="Morphing Analytics Wave & Metrics" />
 
 <br><br>
 
@@ -163,17 +171,6 @@
     </td>
   </tr>
 </table>
-
-<br><br>
-
----
-
-## 🏆 Certifications & Professional Credentials
-
-<img src="https://img.shields.io/badge/Google-Data_Analytics_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-Data_Science_Specialist-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-Database_Architect-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-Desktop_Analytics_Certified-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 <br><br>
 
