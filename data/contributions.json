@@ -1,12 +1,12 @@
 {
   "username": "bandiarunkumar",
-  "generated_at": "2026-08-22T03:57:37Z",
+  "generated_at": "2026-08-23T04:02:31Z",
   "range": {
-    "start": "2025-08-17",
-    "end": "2026-08-22"
+    "start": "2025-08-24",
+    "end": "2026-08-23"
   },
-  "total_contributions": 1201,
-  "active_days": 310,
+  "total_contributions": 1176,
+  "active_days": 304,
   "avg_per_active_day": 3.9,
   "current_streak": {
     "length": 0,
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 57
+      "total": 32
     },
     {
       "month": "2025-09",
@@ -77,34 +77,6 @@
     }
   ],
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 0
-    },
-    {
-      "date": "2025-08-18",
-      "count": 1
-    },
-    {
-      "date": "2025-08-19",
-      "count": 2
-    },
-    {
-      "date": "2025-08-20",
-      "count": 9
-    },
-    {
-      "date": "2025-08-21",
-      "count": 2
-    },
-    {
-      "date": "2025-08-22",
-      "count": 9
-    },
-    {
-      "date": "2025-08-23",
-      "count": 2
-    },
     {
       "date": "2025-08-24",
       "count": 2
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-08-22",
+      "count": 0
+    },
+    {
+      "date": "2026-08-23",
       "count": 0
     }
   ]
