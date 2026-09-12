@@ -182,6 +182,10 @@
 
 <br><br>
 
+<img src="./metrics.isocalendar.svg" width="860" alt="Isometric Contribution Calendar" />
+
+<br><br>
+
 <img src="./streak-card.svg" width="860" alt="GitHub Streak Stats" />
 
 <br><br>
