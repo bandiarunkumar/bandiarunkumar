@@ -1,0 +1,20 @@
+name: Isometric Calendar
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.isocalendar.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: bandiarunkumar
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
