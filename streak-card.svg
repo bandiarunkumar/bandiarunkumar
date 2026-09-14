@@ -26,7 +26,7 @@
 
   <!-- Column 2: Current Streak -->
   <g transform="translate(430, 85)">
-    <text x="0" y="-25" fill="#39d353" font-size="34" font-weight="900" text-anchor="middle" filter="url(#stglow)">🔥 1</text>
+    <text x="0" y="-25" fill="#39d353" font-size="34" font-weight="900" text-anchor="middle" filter="url(#stglow)">🔥 0</text>
     <text x="0" y="5" fill="#e6edf3" font-size="12" font-weight="700" text-anchor="middle">Current Streak (Days)</text>
     <text x="0" y="24" fill="#39d353" font-size="10" font-weight="700" text-anchor="middle">Active Streak 🟢</text>
   </g>
